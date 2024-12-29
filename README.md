@@ -95,7 +95,7 @@ The application is served using `serve_playground_app()`:
 Below are some snapshots of the application outputs:
 
 ### Example 1: Web Search Results
-![Web Search Output](path/to/web_search_output_image.png)
+![Web Search Output](https://github.com/Tanujkumar24/AI-agent-using-phidata-project/blob/main/output2.png)
 
 ### Example 2: Financial Data Table
 ![Finance Agent Output](path/to/finance_agent_output_image.png)
