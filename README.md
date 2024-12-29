@@ -98,10 +98,7 @@ Below are some snapshots of the application outputs:
 ![Web Search Output](https://github.com/Tanujkumar24/AI-agent-using-phidata-project/blob/main/output2.png)
 
 ### Example 2: Financial Data Table
-![Finance Agent Output](path/to/finance_agent_output_image.png)
-
-### Example 3: Multi-Agent Collaboration
-![Multi-Agent Collaboration](path/to/multi_agent_collaboration_image.png)
+![Finance Agent Output](https://github.com/Tanujkumar24/AI-agent-using-phidata-project/blob/main/output1.png)
 
 ## Contact
 For further assistance or queries, please contact the developer or refer to the PHI and OpenAI documentation.
