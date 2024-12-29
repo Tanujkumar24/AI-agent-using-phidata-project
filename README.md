@@ -91,5 +91,17 @@ The application is served using `serve_playground_app()`:
 - Integrate additional APIs for diverse data analysis.
 - Enhance the user interface for better interactivity.
 
+## Output Snapshots
+Below are some snapshots of the application outputs:
+
+### Example 1: Web Search Results
+![Web Search Output](path/to/web_search_output_image.png)
+
+### Example 2: Financial Data Table
+![Finance Agent Output](path/to/finance_agent_output_image.png)
+
+### Example 3: Multi-Agent Collaboration
+![Multi-Agent Collaboration](path/to/multi_agent_collaboration_image.png)
+
 ## Contact
 For further assistance or queries, please contact the developer or refer to the PHI and OpenAI documentation.
